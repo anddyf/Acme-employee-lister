@@ -1,0 +1,136 @@
+body{
+    background:#ffffff;
+    margin-top:0;
+}
+p{
+    margin:0
+}
+.spacer{
+    width:100%;
+    height:1px;
+    background-color: tomato
+}
+#container{
+    width:70%;
+    margin:auto;
+    padding:1rem;
+    background:#e7e9ea
+}
+#container p{
+    font-size:0.9rem;
+    font-family: sans-serif;
+}
+#wrapper{
+    background:dodgerblue;
+    font-family:sans-serif;
+    font-size:1rem;
+    padding:0.7rem;
+}
+#wrapper h1{
+    color:#ffffff;
+    text-align: center;
+    margin:0;
+    padding:0.1rem;
+}
+.redWrapper{
+    margin-top:1rem;
+}
+.redWrapper h3{
+    margin-top:1em;
+    background:tomato;
+    color:#ffffff;
+    font-size:1.3rem;
+    font-family:sans-serif;
+    padding:0.7rem
+}
+.gray{
+    background:#cecccc;
+    padding:0.4em;
+    margin: 0.6em 0;
+}
+.gray p{
+    display:inline-block;
+    margin:0
+}
+.redSquare{
+    width:45px;
+    height:40px;
+    background:tomato;
+    display:inline-block;
+}
+.blueSquare{
+    width:45px;
+    height:40px;
+    background:dodgerblue;
+    display:inline-block;
+}
+.redName h3{
+    font-family:sans-serif;
+    color:tomato;
+    font-weight:bold
+}
+.blueName{
+    font-family:sans-serif;
+    font-weight:bold;
+    color:dodgerblue;
+}
+.moe{
+   width:100px;
+   height:100px;
+   border-radius:5rem;
+   background-size: cover;
+   background-position: center;
+   background-image: url('https://upload.wikimedia.org/wikipedia/commons/1/1b/Moe_Howard_1937_%28cropped%29.jpg') 
+}
+.larry{
+    width:100px;
+    height:100px;
+    border-radius:5rem;
+    background-size: cover;
+    background-position: center;
+    background-image: url('https://statici.behindthevoiceactors.com/behindthevoiceactors/_img/actors/larry-fine-0.51.jpg')
+}
+.larryAgain{ 
+    width:100px;
+    height:100px;
+    border-radius:5rem;
+    background-size: cover;
+    background-position: center;
+    background-image: url('https://images.dailykos.com/images/479822/story_image/unnamed.jpg?1512326578')
+}
+.shemp{
+    width:100px;
+    height:100px;
+    border-radius:5rem;
+    margin-bottom:1rem;
+    background-size: cover;
+    background-position: center;
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/3/3a/Shemp_Howard_in_Brideless_Groom_1947.png')
+}
+
+.redTitle{
+    font-size: 1.2rem;
+    font-family:sans-serif;
+    color:tomato;
+    font-weight:bold;
+    padding: 0.5em 0;
+}
+.red{
+    font-family:sans-serif;
+    color:tomato;
+    padding: 0.7em 0;
+}
+.blueTitle{
+    font-size: 1.2rem;
+    font-family:sans-serif;
+    color:dodgerblue;
+    font-weight:bold;
+    padding: 0.5em 0;
+
+}
+.blue{
+    font-family:sans-serif;
+    color:dodgerblue;
+    padding: 0.7em 0;
+
+}
